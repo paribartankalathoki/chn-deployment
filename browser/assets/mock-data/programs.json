@@ -1,0 +1,222 @@
+[
+    {
+        "title": "Bachelor of Computer Application",
+        "slug": "bachelor-of-computer-application-bca",
+        "logo": null,
+        "affiliation": {
+            "title": "Tribhuvan University",
+            "slug": "tribhuvan-university"
+        },
+        "duration": "4 years",
+        "short_name": "BCA"
+    },
+    {
+        "title": "Ten Plus Two (+2) Humanities",
+        "slug": "ten-plus-two-humanities",
+        "logo": null,
+        "affiliation": {
+            "title": "National Examinations Board",
+            "slug": "neb"
+        },
+        "duration": "2 years",
+        "short_name": null
+    },
+    {
+        "title": "Bachelor in Business Studies",
+        "slug": "bachelor-of-business-studies-bbs",
+        "logo": null,
+        "affiliation": {
+            "title": "Tribhuvan University",
+            "slug": "tribhuvan-university"
+        },
+        "duration": "4 years",
+        "short_name": "BBS"
+    },
+    {
+        "title": "Ten Plus Two (+2) Law",
+        "slug": "ten-plus-two-law-national-examination-board-neb",
+        "logo": null,
+        "affiliation": {
+            "title": "National Examinations Board",
+            "slug": "neb"
+        },
+        "duration": "2 years",
+        "short_name": null
+    },
+    {
+        "title": "Master of Business Studies",
+        "slug": "master-of-business-studies-mbs",
+        "logo": null,
+        "affiliation": {
+            "title": "Tribhuvan University",
+            "slug": "tribhuvan-university"
+        },
+        "duration": "2 years",
+        "short_name": "MBS"
+    },
+    {
+        "title": "Bachelor of Arts in Social Work",
+        "slug": "bachelor-of-social-works-bsw",
+        "logo": null,
+        "affiliation": {
+            "title": "Tribhuvan University",
+            "slug": "tribhuvan-university"
+        },
+        "duration": "4 years",
+        "short_name": "BASW"
+    },
+    {
+        "title": "Bachelor of Business Management",
+        "slug": "bachelor-of-business-management-bbm",
+        "logo": null,
+        "affiliation": {
+            "title": "Tribhuvan University",
+            "slug": "tribhuvan-university"
+        },
+        "duration": "4 years",
+        "short_name": "BBM"
+    },
+    {
+        "title": "Bachelor of Business Administration",
+        "slug": "bachelor-of-business-administration-bba",
+        "logo": null,
+        "affiliation": {
+            "title": "Tribhuvan University",
+            "slug": "tribhuvan-university"
+        },
+        "duration": "4 years",
+        "short_name": "BBA"
+    },
+    {
+        "title": "Bachelors in Information Technology",
+        "slug": "bachelor-information-technology-bit",
+        "logo": null,
+        "affiliation": {
+            "title": "Tribhuvan University",
+            "slug": "tribhuvan-university"
+        },
+        "duration": "4 years",
+        "short_name": "BIT"
+    },
+    {
+        "title": "Bachelor of Arts",
+        "slug": "bachelor-of-arts-ba",
+        "logo": null,
+        "affiliation": {
+            "title": "Tribhuvan University",
+            "slug": "tribhuvan-university"
+        },
+        "duration": "4 years",
+        "short_name": "BA"
+    },
+    {
+        "title": "Bachelor of Business Administration",
+        "slug": "bachelor-of-business-administration-bba",
+        "logo": null,
+        "affiliation": {
+            "title": "Pokhara University",
+            "slug": "pokhara-university"
+        },
+        "duration": "4 years",
+        "short_name": "BBA"
+    },
+    {
+        "title": "BSc Computer Science and Information Technology",
+        "slug": "bsc-computer-science-and-information-technology-bsc-csit",
+        "logo": null,
+        "affiliation": {
+            "title": "Tribhuvan University",
+            "slug": "tribhuvan-university"
+        },
+        "duration": "4 years",
+        "short_name": "BSc CSIT"
+    },
+    {
+        "title": "Bachelor of Information Management",
+        "slug": "bachelor-of-information-management-bim",
+        "logo": null,
+        "affiliation": {
+            "title": "Tribhuvan University",
+            "slug": "tribhuvan-university"
+        },
+        "duration": "4 years",
+        "short_name": "BIM"
+    },
+    {
+        "title": "Master of Business Administration",
+        "slug": "master-of-business-administration-mba",
+        "logo": null,
+        "affiliation": {
+            "title": "Tribhuvan University",
+            "slug": "tribhuvan-university"
+        },
+        "duration": "2 years",
+        "short_name": "MBA"
+    },
+    {
+        "title": "Bachelor of Computer System and Information Technology",
+        "slug": "bachelor-of-computer-information-systems-bcis",
+        "logo": null,
+        "affiliation": {
+            "title": "Pokhara University",
+            "slug": "pokhara-university"
+        },
+        "duration": "4 years",
+        "short_name": "BCSIT"
+    },
+    {
+        "title": "Bachelor of Civil Engineering",
+        "slug": "bachelor-of-civil-engineering",
+        "logo": null,
+        "affiliation": {
+            "title": "Tribhuvan University",
+            "slug": "tribhuvan-university"
+        },
+        "duration": "4 years",
+        "short_name": null
+    },
+    {
+        "title": "Bachelor of Hotel Management",
+        "slug": "bachelor-of-hotel-management-bhm",
+        "logo": null,
+        "affiliation": {
+            "title": "Pokhara University",
+            "slug": "pokhara-university"
+        },
+        "duration": "4 years",
+        "short_name": "BHM"
+    },
+    {
+        "title": "Master of Business Administration",
+        "slug": "master-of-business-administration-mba",
+        "logo": null,
+        "affiliation": {
+            "title": "Kathmandu University",
+            "slug": "kathmandu-university"
+        },
+        "duration": "2 years",
+        "short_name": "MBA"
+    },
+    {
+        "title": "Bachelor of Civil Engineering",
+        "slug": "bachelor-of-civil-engineering",
+        "logo": null,
+        "affiliation": {
+            "title": "Purbanchal University",
+            "slug": "purbanchal-university"
+        },
+        "duration": "4 years",
+        "short_name": "BE Civil"
+    },
+    {
+        "title": "Bachelor of Business Administration",
+        "slug": "bachelor-of-business-administration-bba",
+        "logo": null,
+        "affiliation": {
+            "title": "Purbanchal University",
+            "slug": "purbanchal-university"
+        },
+        "duration": "4 years",
+        "short_name": "BBA"
+    }
+]

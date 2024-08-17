@@ -1,0 +1,172 @@
+{
+    "colleges": [
+        {
+            "id": 1,
+            "image": "https://via.placeholder.com/300x150",
+            "name": "Texas College of Management and IT",
+            "affiliation": "Tribhuvan University",
+            "location": "Sathal, Kathmandu"
+        },
+        {
+            "id": 2,
+            "image": "https://via.placeholder.com/300x150",
+            "name": "Thames International College",
+            "affiliation": "Tribhuvan University",
+            "location": "Surya Bikram Gyawali Marg, Old Baneshwor, Kathmandu"
+        },
+        {
+            "id": 3,
+            "image": "https://via.placeholder.com/300x150",
+            "name": "King's College",
+            "affiliation": "Westcliff University, CA, USA",
+            "location": "Babar Mahal, Kathmandu"
+        },
+        {
+            "id": 4,
+            "image": "https://via.placeholder.com/300x150",
+            "name": "NCTTM - IST College",
+            "affiliation": "Tribhuvan University",
+            "location": "Gyaneshwor, Opposite to German Embassy, Kathmandu"
+        },
+        {
+            "id": 5,
+            "image": "https://via.placeholder.com/300x150",
+            "name": "Padmashree College",
+            "affiliation": "Tribhuvan University",
+            "location": "Tinkune, Kathmandu"
+        },
+        {
+            "id": 6,
+            "image": "https://via.placeholder.com/300x150",
+            "name": "Nepal College of Information Technology (NCIT)",
+            "affiliation": "Pokhara University",
+            "location": "Balkumari, Lalitpur"
+        },
+        {
+            "id": 7,
+            "image": "https://via.placeholder.com/300x150",
+            "name": "Certified Institute of Accountancy (CIA)",
+            "affiliation": "Tribhuvan University",
+            "location": "Thapathali, Near Norvic Hospital"
+        },
+        {
+            "id": 8,
+            "image": "https://via.placeholder.com/300x150",
+            "name": "Kathford International College of Engineering and Management",
+            "affiliation": "Tribhuvan University",
+            "location": "Balkumari, Lalitpur"
+        },
+        {
+            "id": 9,
+            "image": "https://via.placeholder.com/300x150",
+            "name": "Silver Mountain School of Hotel Management",
+            "affiliation": "Queen Margaret University (UK)",
+            "location": "Lainchour, Kathmandu"
+        },
+        {
+            "id": 10,
+            "image": "https://via.placeholder.com/300x150",
+            "name": "Janamaitri Multiple Campus",
+            "affiliation": "National Examination Board",
+            "location": "Tribhuvan University, Kuleshwor, Kathmandu"
+        },
+        {
+            "id": 11,
+            "image": "https://via.placeholder.com/300x150",
+            "name": "Global College of Management",
+            "affiliation": "National Examination Board",
+            "location": "Mid-Baneshwor, Kathmandu"
+        },
+        {
+            "id": 12,
+            "image": "https://via.placeholder.com/300x150",
+            "name": "Shubhashree College of Management",
+            "affiliation": "Pokhara University",
+            "location": "Near Baneshwor Chowk, Opposite to Eyeplex"
+        },
+        {
+            "id": 13,
+            "image": "https://via.placeholder.com/300x150",
+            "name": "SAIM College",
+            "affiliation": "Pokhara University",
+            "location": "Old Baneshwor Chowk, Kathmandu"
+        },
+        {
+            "id": 14,
+            "image": "https://via.placeholder.com/300x150",
+            "name": "NAMI College",
+            "affiliation": "National Examination Board",
+            "location": "Cambridge IGCSE A Level, University of Northampton, UK"
+        },
+        {
+            "id": 15,
+            "image": "https://via.placeholder.com/300x150",
+            "name": "Public Youth Campus",
+            "affiliation": "Tribhuvan University",
+            "location": "Dhobichaur, Kathmandu"
+        },
+        {
+            "id": 16,
+            "image": "https://via.placeholder.com/300x150",
+            "name": "Kathmandu Don Bosco College",
+            "affiliation": "Tribhuvan University",
+            "location": "Lalitpur (Near to Hotel Radisson)"
+        },
+        {
+            "id": 17,
+            "image": "https://via.placeholder.com/300x150",
+            "name": "People's Campus",
+            "affiliation": "National Examination Board",
+            "location": "Paknajol, Kathmandu"
+        },
+        {
+            "id": 18,
+            "image": "https://via.placeholder.com/300x150",
+            "name": "KIST College & SS",
+            "affiliation": "National Examination Board",
+            "location": "Kamalpokhari, Kathmandu"
+        },
+        {
+            "id": 19,
+            "image": "https://via.placeholder.com/300x150",
+            "name": "Ace Institute of Management",
+            "affiliation": "Pokhara University",
+            "location": "New Baneshwor, Kathmandu"
+        },
+        {
+            "id": 20,
+            "image": "https://via.placeholder.com/300x150",
+            "name": "Nepal Mega College",
+            "affiliation": "National Examination Board",
+            "location": "Babarmahal, Kathmandu"
+        },
+        {
+            "id": 21,
+            "image": "https://via.placeholder.com/300x150",
+            "name": "Kantipur College of Management and Information Technology",
+            "affiliation": "Tribhuvan University",
+            "location": "Mid Baneshwor, Kathmandu"
+        },
+        {
+            "id": 22,
+            "image": "https://via.placeholder.com/300x150",
+            "name": "Prime College",
+            "affiliation": "Tribhuvan University",
+            "location": "Naya Bazar, Khusibu, Kathmandu"
+        },
+        {
+            "id": 23,
+            "image": "https://via.placeholder.com/300x150",
+            "name": "Tribhuvan University School of Management (SOMTU)",
+            "affiliation": "Tribhuvan University",
+            "location": "Kirtipur, Kathmandu"
+        },
+        {
+            "id": 24,
+            "image": "https://via.placeholder.com/300x150",
+            "name": "The British College",
+            "affiliation": "ACCA, University of the West of England, UK",
+            "location": "Trade Tower, Thapathali, Kathmandu"
+        }
+    ]
+}

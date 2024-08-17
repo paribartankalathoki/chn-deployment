@@ -1,0 +1,344 @@
+[
+    {
+        "title": "Aadim National College",
+        "slug": "aadim-national-college",
+        "cover_image": "../../../assets/images/colleges/aadim-college.jpeg",
+        "secondary_cover_image": null,
+        "full_address": "Chabahil, Chucchepati, Kathmandu",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": "tribhuvan"
+            }
+        ]
+    },
+    {
+        "title": "Texas College of Management and IT",
+        "slug": "texas-international-college-management-and-it",
+        "cover_image": "../../../assets/images/colleges/texas-college.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Siphal, Kathmandu",
+        "affiliations": [
+            {
+                "title": "Lincoln University College",
+                "slug": "lincoln-university",
+                "org_type_lower": "university",
+                "short_name": "lincoln"
+            }
+        ]
+    },
+    {
+        "title": "Thames International College",
+        "slug": "thames-international-college",
+        "cover_image": "../../../assets/images/colleges/thames-college.webp",
+        "secondary_cover_image": null,
+        "full_address": "Surya Bikram Gyawali Marg, Old Baneshwor, Kathmandu",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "King's College",
+        "slug": "kings-college",
+        "cover_image": "../../../assets/images/colleges/kings-college.png",
+        "secondary_cover_image": null,
+        "full_address": "Babar Mahal, Kathmandu",
+        "affiliations": [
+            {
+                "title": "Westcliff University, CA, USA",
+                "slug": "westcliff-university-ca-usa",
+                "org_type_lower": "university",
+                "short_name": "Westcliff"
+            }
+        ]
+    },
+    {
+        "title": "Padmashree College",
+        "slug": "padmashree-international-college",
+        "cover_image": "../../../assets/images/colleges/padmashree-college.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Tinkune, Kathmandu",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            },
+            {
+                "title": "Nilai University, Malaysia",
+                "slug": "nilai-university-college-malaysia",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Nepal College of Information Technology (NCIT)",
+        "slug": "nepal-college-information-technology",
+        "cover_image": "../../../assets/images/colleges/ncit-college.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Balkumari, Lalitpur",
+        "affiliations": [
+            {
+                "title": "Pokhara University",
+                "slug": "pokhara-university",
+                "org_type_lower": "university",
+                "short_name": "PU"
+            }
+        ]
+    },
+    {
+        "title": "Certified College of Accountancy (CCA)",
+        "slug": "cca-school-accountancy",
+        "cover_image": "../../../assets/images/colleges/cca-college.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Thapagaun, New Baneshwor, Kathmandu",
+        "affiliations": [
+            {
+                "title": "ACCA",
+                "slug": "acca",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Kathford International College of Engineering and Management",
+        "slug": "kathford-international-college-engineering-and-management",
+        "cover_image": "../../../assets/images/colleges/kathford-college.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Balkumari, Lalitpur",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Silver Mountain School of Hotel Management",
+        "slug": "silver-mountain-school-hotel-management",
+        "cover_image": "../../../assets/images/colleges/silvermountain-college.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Lainchaur, Kathmandu",
+        "affiliations": [
+            {
+                "title": "American Hospitality Academy, USA",
+                "slug": "american-hospitality-academy-usa",
+                "org_type_lower": "university",
+                "short_name": "AHA-USA"
+            },
+            {
+                "title": "Queen Margaret University (UK)",
+                "slug": "queen-margaret-university-uk",
+                "org_type_lower": "university",
+                "short_name": "QMU-UK"
+            }
+        ]
+    },
+    {
+        "title": "Global College of Management",
+        "slug": "global-college-management",
+        "cover_image": "../../../assets/images/colleges/global-college.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Mid-Baneshwor, Kathmandu",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "SAIM College",
+        "slug": "saim-college",
+        "cover_image": "../../../assets/images/colleges/saim-college.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Old Baneswor Chowk, Kathmandu",
+        "affiliations": [
+            {
+                "title": "Pokhara University",
+                "slug": "pokhara-university",
+                "org_type_lower": "university",
+                "short_name": "PU"
+            }
+        ]
+    },
+    {
+        "title": "NAMI College",
+        "slug": "naaya-aayam-multi-disciplinary-institute-nami-college",
+        "cover_image": "../../../assets/images/colleges/nami-college.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Gokarneshwor-7, Jorpati, Gokarneshwar, Kathmandu",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Cambridge GCE A Levels",
+                "slug": "cambridge-university",
+                "org_type_lower": "university",
+                "short_name": "A-Levels"
+            },
+            {
+                "title": "University of Northampton, UK",
+                "slug": "university-northampton-uk",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Kathmandu Don Bosco College",
+        "slug": "kathmandu-don-bosco-college",
+        "cover_image": "../../../assets/images/colleges/don-bosco-college.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Lazimpat, (North to Hotel Radisson), Kathmandu",
+        "affiliations": [
+            {
+                "title": "Purbanchal University",
+                "slug": "purbanchal-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "KIST College & SS",
+        "slug": "kist-college",
+        "cover_image": "../../../assets/images/colleges/kist-college.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Kamalpokhari, Kathmandu",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            },
+            {
+                "title": "Purbanchal University",
+                "slug": "purbanchal-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Ace Institute of Management",
+        "slug": "ace-institute-management",
+        "cover_image": "../../../assets/images/colleges/ace-college.jpg",
+        "secondary_cover_image": null,
+        "full_address": "New Baneshwor, Kathmandu",
+        "affiliations": [
+            {
+                "title": "Pokhara University",
+                "slug": "pokhara-university",
+                "org_type_lower": "university",
+                "short_name": "PU"
+            }
+        ]
+    },
+    {
+        "title": "Nepal Mega College",
+        "slug": "nepal-mega-college",
+        "cover_image": "../../../assets/images/colleges/mega-college.png",
+        "secondary_cover_image": null,
+        "full_address": "Babarmahal, Kathmandu",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Prime College",
+        "slug": "prime-college",
+        "cover_image": "../../../assets/images/colleges/prime-college.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Naya Bazar, Khusibu, Kathmandu",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "The British College",
+        "slug": "british-college",
+        "cover_image": "../../../assets/images/colleges/british-college.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Trade Tower, Thapathali, Kathmandu",
+        "affiliations": [
+            {
+                "title": "ACCA",
+                "slug": "acca",
+                "org_type_lower": "university",
+                "short_name": null
+            },
+            {
+                "title": "Cambridge GCE A Levels",
+                "slug": "cambridge-university",
+                "org_type_lower": "university",
+                "short_name": "A-Levels"
+            },
+            {
+                "title": "Leeds Beckett University, UK",
+                "slug": "leeds-beckett-university-uk",
+                "org_type_lower": "university",
+                "short_name": null
+            },
+            {
+                "title": "University of the West of England, UK",
+                "slug": "university-of-the-west-of-england-uk",
+                "org_type_lower": "university",
+                "short_name": "UWE"
+            },
+            {
+                "title": "Keele University",
+                "slug": "keele-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    }
+]

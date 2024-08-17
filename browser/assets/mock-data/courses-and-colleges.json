@@ -1,0 +1,336 @@
+{
+    "courses": [
+        {
+            "courseName": "BCA",
+            "colleges": [
+                {
+                    "collegeId": 1,
+                    "collegeName": "Divya Gyan College",
+                    "collegeLocation": "Putalisadak",
+                    "slug": "divya-gyan-college"
+                },
+                {
+                    "collegeId": 2,
+                    "collegeName": "Thames College",
+                    "collegeLocation": "Old baneshwor",
+                    "slug": "thames-college"
+                },
+                {
+                    "collegeId": 3,
+                    "collegeName": "Padmashree Int'l College",
+                    "collegeLocation": "Tinkune",
+                    "slug": "padmashree-international-college"
+                },
+                {
+                    "collegeId": 4,
+                    "collegeName": "Triton Int'l College",
+                    "collegeLocation": "Koteshwor",
+                    "slug": "triton-international-college"
+                },
+                {
+                    "collegeId": 5,
+                    "collegeName": "DAV College",
+                    "collegeLocation": "Dhobighat",
+                    "slug": "dav-college"
+                },
+                {
+                    "collegeId": 6,
+                    "collegeName": "United College",
+                    "collegeLocation": "Kumaripati",
+                    "slug": "united-college"
+                },
+                {
+                    "collegeId": 7,
+                    "collegeName": "The Times International College",
+                    "collegeLocation": "Dillibazar",
+                    "slug": "the-times-international-college"
+                },
+                {
+                    "collegeId": 8,
+                    "collegeName": "Kathford College",
+                    "collegeLocation": "Balkumari",
+                    "slug": "kathford-college"
+                },
+                {
+                    "collegeId": 9,
+                    "collegeName": "Kathmandu College of Technology",
+                    "collegeLocation": "Lokanthali",
+                    "slug": "kathmandu-college-of-technology"
+                },
+                {
+                    "collegeId": 10,
+                    "collegeName": "Nepal Mega College",
+                    "collegeLocation": "Babarmahal",
+                    "slug": "nepal-mega-college"
+                },
+                {
+                    "collegeId": 11,
+                    "collegeName": "Swastik College",
+                    "collegeLocation": "Madhyapur Thimi",
+                    "slug": "swastik-college"
+                },
+                {
+                    "collegeId": 12,
+                    "collegeName": "Chitwan College of Technology",
+                    "collegeLocation": "Asthachowk",
+                    "slug": "chitwan-college-of-technology"
+                }
+            ]
+        },
+        {
+            "courseName": "BHM",
+            "colleges": [
+                {
+                    "collegeId": 13,
+                    "collegeName": "Padmashree Int'l College",
+                    "collegeLocation": "Tinkune",
+                    "slug": "padmashree-international-college"
+                },
+                {
+                    "collegeId": 14,
+                    "collegeName": "IST College",
+                    "collegeLocation": "Charkhal",
+                    "slug": "ist-college"
+                },
+                {
+                    "collegeId": 15,
+                    "collegeName": "Mid-Valley College",
+                    "collegeLocation": "Gyaneshwor",
+                    "slug": "mid-valley-college"
+                },
+                {
+                    "collegeId": 16,
+                    "collegeName": "ISMT",
+                    "collegeLocation": "Tinkune",
+                    "slug": "ismt"
+                },
+                {
+                    "collegeId": 17,
+                    "collegeName": "Shubhashree",
+                    "collegeLocation": "New baneshwor",
+                    "slug": "shubhashree"
+                },
+                {
+                    "collegeId": 18,
+                    "collegeName": "Apollo College",
+                    "collegeLocation": "New baneshwor",
+                    "slug": "apollo-college"
+                },
+                {
+                    "collegeId": 19,
+                    "collegeName": "Medhavi College",
+                    "collegeLocation": "Shankhamul",
+                    "slug": "medhavi-college"
+                },
+                {
+                    "collegeId": 20,
+                    "collegeName": "Liberty College",
+                    "collegeLocation": "Anamnagar",
+                    "slug": "liberty-college"
+                },
+                {
+                    "collegeId": 21,
+                    "collegeName": "NATHM",
+                    "collegeLocation": "Kalimati",
+                    "slug": "nathm"
+                },
+                {
+                    "collegeId": 22,
+                    "collegeName": "Gateway College",
+                    "collegeLocation": "Basundhara",
+                    "slug": "gateway-college"
+                }
+            ]
+        },
+        {
+            "courseName": "BIT",
+            "colleges": [
+                {
+                    "collegeId": 23,
+                    "collegeName": "Model Institute of Technology",
+                    "collegeLocation": "Bagbazar",
+                    "slug": "model-institute-of-technology"
+                },
+                {
+                    "collegeId": 24,
+                    "collegeName": "LBEF Campus",
+                    "collegeLocation": "Maitidevi",
+                    "slug": "lbef-campus"
+                },
+                {
+                    "collegeId": 25,
+                    "collegeName": "Padmashree Int'l College",
+                    "collegeLocation": "Tinkune",
+                    "slug": "padmashree-international-college"
+                },
+                {
+                    "collegeId": 26,
+                    "collegeName": "PCPS College",
+                    "collegeLocation": "Kupondole",
+                    "slug": "pcps-college"
+                },
+                {
+                    "collegeId": 27,
+                    "collegeName": "Phoenix College",
+                    "collegeLocation": "Maitidevi",
+                    "slug": "phoenix-college"
+                },
+                {
+                    "collegeId": 28,
+                    "collegeName": "ISMT College",
+                    "collegeLocation": "Tinkune",
+                    "slug": "ismt-college"
+                },
+                {
+                    "collegeId": 29,
+                    "collegeName": "The British College",
+                    "collegeLocation": "Thapathali",
+                    "slug": "the-british-college"
+                },
+                {
+                    "collegeId": 30,
+                    "collegeName": "Kantipur City College",
+                    "collegeLocation": "Putalisadak",
+                    "slug": "kantipur-city-college"
+                },
+                {
+                    "collegeId": 31,
+                    "collegeName": "KIST",
+                    "collegeLocation": "Kamalpokhari",
+                    "slug": "kist"
+                },
+                {
+                    "collegeId": 32,
+                    "collegeName": "HWIC",
+                    "collegeLocation": "Putalisadak",
+                    "slug": "hwic"
+                }
+            ]
+        },
+        {
+            "courseName": "BBA",
+            "colleges": [
+                {
+                    "collegeId": 33,
+                    "collegeName": "Thames College",
+                    "collegeLocation": "Old baneshwor",
+                    "slug": "thames-college"
+                },
+                {
+                    "collegeId": 34,
+                    "collegeName": "Ace Inst. of Mgmt.",
+                    "collegeLocation": "New baneshwor",
+                    "slug": "ace-institute-of-management"
+                },
+                {
+                    "collegeId": 35,
+                    "collegeName": "DAV College",
+                    "collegeLocation": "Dhobighat",
+                    "slug": "dav-college"
+                },
+                {
+                    "collegeId": 36,
+                    "collegeName": "ISMT College",
+                    "collegeLocation": "Tinkune",
+                    "slug": "ismt-college"
+                },
+                {
+                    "collegeId": 37,
+                    "collegeName": "Kathford College",
+                    "collegeLocation": "Balkumari",
+                    "slug": "kathford-college"
+                },
+                {
+                    "collegeId": 38,
+                    "collegeName": "KCM",
+                    "collegeLocation": "Gwarko",
+                    "slug": "kcm"
+                },
+                {
+                    "collegeId": 39,
+                    "collegeName": "KUSOM",
+                    "collegeLocation": "Balkumari",
+                    "slug": "kusom"
+                },
+                {
+                    "collegeId": 40,
+                    "collegeName": "LACM",
+                    "collegeLocation": "Pulchowk",
+                    "slug": "lacm"
+                },
+                {
+                    "collegeId": 41,
+                    "collegeName": "Prime College",
+                    "collegeLocation": "Naya bazaar",
+                    "slug": "prime-college"
+                },
+                {
+                    "collegeId": 42,
+                    "collegeName": "Sagarmatha College",
+                    "collegeLocation": "Pulchowk",
+                    "slug": "sagarmatha-college"
+                },
+                {
+                    "collegeId": 43,
+                    "collegeName": "Trinity College",
+                    "collegeLocation": "Dillibazar",
+                    "slug": "trinity-college"
+                },
+                {
+                    "collegeId": 44,
+                    "collegeName": "Morgan College",
+                    "collegeLocation": "Basundhara",
+                    "slug": "morgan-college"
+                },
+                {
+                    "collegeId": 45,
+                    "collegeName": "The British College",
+                    "collegeLocation": "Thapathali",
+                    "slug": "the-british-college"
+                },
+                {
+                    "collegeId": 46,
+                    "collegeName": "Uniglobe College",
+                    "collegeLocation": "New baneshwor",
+                    "slug": "uniglobe-college"
+                },
+                {
+                    "collegeId": 47,
+                    "collegeName": "Excel Business College",
+                    "collegeLocation": "New baneshwor",
+                    "slug": "excel-business-college"
+                },
+                {
+                    "collegeId": 48,
+                    "collegeName": "NCCS College",
+                    "collegeLocation": "Paknajol",
+                    "slug": "nccs-college"
+                },
+                {
+                    "collegeId": 49,
+                    "collegeName": "NCIT",
+                    "collegeLocation": "Balkumari",
+                    "slug": "ncit"
+                },
+                {
+                    "collegeId": 50,
+                    "collegeName": "Himalayan WhiteHouse Int'l College",
+                    "collegeLocation": "New baneshwor",
+                    "slug": "himalayan-whitehouse-international-college"
+                },
+                {
+                    "collegeId": 51,
+                    "collegeName": "Asian School of Mgmt",
+                    "collegeLocation": "Gongabu",
+                    "slug": "asian-school-of-management"
+                },
+                {
+                    "collegeId": 52,
+                    "collegeName": "Apex College",
+                    "collegeLocation": "Mid-baneshwor",
+                    "slug": "apex-college"
+                }
+            ]
+        }
+    ]
+}

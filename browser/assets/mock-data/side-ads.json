@@ -1,0 +1,40 @@
+{
+    "sideAds": [
+        {
+            "id": 1,
+            "image": "assets/images/colleges/orchid.webp",
+            "link": "http://collegehubnepal.com",
+            "altText": "Bernhardt College"
+        },
+        {
+            "id": 2,
+            "image": "assets/images/colleges/padmashree.webp",
+            "link": "http://collegehubnepal.com",
+            "altText": "West Chief College"
+        },
+        {
+            "id": 3,
+            "image": "assets/images/colleges/westminister.gif",
+            "link": "http://collegehubnepal.com",
+            "altText": "Gandaki University"
+        },
+        {
+            "id": 4,
+            "image": "assets/images/colleges/thames.webp",
+            "link": "http://collegehubnepal.com",
+            "altText": "Kantipur College"
+        },
+        {
+            "id": 5,
+            "image": "assets/images/colleges/times.jpg",
+            "link": "http://collegehubnepal.com",
+            "altText": "Kantipur College"
+        },
+        {
+            "id": 6,
+            "image": "assets/images/colleges/united.jpg",
+            "link": "http://collegehubnepal.com",
+            "altText": "Kantipur College"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "programs": [
+        {
+            "programId": 1,
+            "programName": "B.Sc. CSIT"
+        },
+        {
+            "programId": 2,
+            "programName": "BCA"
+        },
+        {
+            "programId": 3,
+            "programName": "BHM"
+        },
+        {
+            "programId": 4,
+            "programName": "MBBS"
+        },
+        {
+            "programId": 5,
+            "programName": "BSW"
+        },
+        {
+            "programId": 6,
+            "programName": "BIT"
+        },
+        {
+            "programId": 7,
+            "programName": "BBM"
+        },
+        {
+            "programId": 8,
+            "programName": "BIM"
+        },
+        {
+            "programId": 9,
+            "programName": "MBA"
+        },
+        {
+            "programId": 10,
+            "programName": "B.Sc. Nursing"
+        },
+        {
+            "programId": 11,
+            "programName": "B.Pharma"
+        },
+        {
+            "programId": 12,
+            "programName": "BE Computer"
+        }
+    ]
+}

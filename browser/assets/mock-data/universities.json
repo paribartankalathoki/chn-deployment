@@ -1,0 +1,58 @@
+[
+    {
+        "title": "Tribhuvan University",
+        "slug": "tribhuvan-university",
+        "cover_image": "../../../assets/images/universities/tu.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Kirtipur, Kathmandu"
+    },
+    {
+        "title": "Pokhara University",
+        "slug": "pokhara-university",
+        "cover_image": "../../../assets/images/universities/pokhara-university.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Lekhnath-12, Kaski"
+    },
+    {
+        "title": "Gandaki University",
+        "slug": "gandaki-university",
+        "cover_image": "../../../assets/images/universities/gandaki-university.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Mustang Chowk, Pokhara, Pokhara, Kaski"
+    },
+    {
+        "title": "Purbanchal University",
+        "slug": "purbanchal-university",
+        "cover_image": "../../../assets/images/universities/purbanchal-university.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Biratnagar, Biratnagar"
+    },
+    {
+        "title": "Kathmandu University",
+        "slug": "kathmandu-university",
+        "cover_image": "../../../assets/images/universities/kathmandu-university.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Dhulikhel, Kavrepalanchok"
+    },
+    {
+        "title": "National Examinations Board",
+        "slug": "neb",
+        "cover_image": "../../../assets/images/universities/neb.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Sanothimi, Madhyapur Thimi, Bhaktapur"
+    },
+    {
+        "title": "CTEVT",
+        "slug": "ctevt",
+        "cover_image": "../../../assets/images/universities/ctevt.jpeg",
+        "secondary_cover_image": null,
+        "full_address": "Sanothimi, Madhyapur Thimi, Bhaktapur"
+    },
+    {
+        "title": "Mid-West University",
+        "slug": "mid-western-university",
+        "cover_image": "../../../assets/images/universities/mid-west-university.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Birendranagar Municipality ,Surkhet"
+    }
+]
